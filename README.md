@@ -1,4 +1,4 @@
-# MpdmacOS
+# MpdMacOS
 
 A Mpd Client for macOS that displays the currently playing MPD song in the menubar, allows playlist and queue management and integrates with the Mac's media keys.
 
