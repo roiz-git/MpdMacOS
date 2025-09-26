@@ -1,6 +1,6 @@
 # MpdMacOS
 
-A macOS menubar application for controlling MPD (Music Player Daemon) servers with elegant UI and comprehensive playback control.
+A Mpd (Music Player Daemon) client for macOS menubar with elegant UI and comprehensive playback control.
 
 Created for Music Player Daemon eco-system with love.
 
