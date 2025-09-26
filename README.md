@@ -1,6 +1,8 @@
-# MpdMacOS Features
+# MpdMacOS
 
 A macOS menubar application for controlling MPD (Music Player Daemon) servers with elegant UI and comprehensive playback control.
+
+Created for Music Player Daemon eco-system with love.
 
 ## Core Features
 
