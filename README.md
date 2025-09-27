@@ -37,4 +37,5 @@ Created for Music Player Daemon eco-system with love.
 ## Requirements
 - macOS 10.15 (Catalina) or later
 - MPD server (local or remote)
-- Accessibility permissions (optional, for global hotkeys)
+- Accessibility permissions (optional, for global hotkeys and Mac media keys)
+- To avoid MacOS Gatekeepr `xattr -d com.apple.quarantine MpdMacOS.app`
