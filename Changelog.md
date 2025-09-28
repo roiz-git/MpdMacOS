@@ -1,4 +1,4 @@
-## [10.0.2] - 2025-09-28
+## [10.0.3] - 2025-09-28
 
 ### Added
 - Automatic update checking and installation
