@@ -1,3 +1,13 @@
+## [10.0.5] - 2025-09-28
+
+### Improved
+- macOS Sleep Compliance - App now properly sleeps when your Mac goes to sleep, preventing connection flooding and battery drain
+
+## [10.0.4] - 2025-09-28
+
+## Improved
+- Update mechanism
+
 ## [10.0.3] - 2025-09-28
 
 ### Added
