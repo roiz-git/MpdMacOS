@@ -1,3 +1,9 @@
+## [10.0.6] - 2025-10-01
+- Fixed "Go to Song" highlighting bug - Now correctly highlights the currently playing song
+- Disabled debug logging for releases - Installed apps no longer create ~/debug.log files
+- Added Comment tag support - Comment metadata now appears in song tooltips
+- Fixed hotkey mapping - Ctrl+Option+L properly triggers "Go to Current Song"
+
 ## [10.0.5] - 2025-09-28
 
 ### Improved
