@@ -1,3 +1,8 @@
+## [10.0.7] - 2025-10-02
+
+- Fix search result click off-by-one error - clicking on search results now plays the correct song
+- Fix Go to Song highlighting off-by-one error - "Go to Song" now highlights the correct currently playing song
+
 ## [10.0.6] - 2025-10-01
 - Fixed "Go to Song" highlighting bug - Now correctly highlights the currently playing song
 - Disabled debug logging for releases - Installed apps no longer create ~/debug.log files
