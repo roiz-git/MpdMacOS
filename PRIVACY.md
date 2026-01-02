@@ -18,4 +18,4 @@ MpdMacOS does not collect, store, or transmit any personal data.
 
 ## Contact
 
-For questions about this privacy policy, contact: roi@roizcorp.org
+For questions about this privacy policy, https://github.com/roiz-git/MpdMacOS/issues
