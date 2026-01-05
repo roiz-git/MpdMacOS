@@ -1,8 +1,8 @@
-# MpdMacOS Privacy Policy
+# Maestro - MPD Client Privacy Policy
 
 Last updated: January 2025
 
-MpdMacOS does not collect, store, or transmit any personal data.
+Maestro does not collect, store, or transmit any personal data.
 
 ## Data Storage
 
