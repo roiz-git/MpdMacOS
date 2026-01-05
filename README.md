@@ -1,4 +1,4 @@
-# MpdMacOS
+# ~~MpdMacOS~~ Maestro - MPD Client
 
 MPD client for macOS menubar with elegant UI and comprehensive playback control. Created for Music Player Daemon ecosystem with love.
 
@@ -56,7 +56,7 @@ MPD client for macOS menubar with elegant UI and comprehensive playback control.
 The app automatically connects to your MPD server and displays the currently playing song in the menubar. The display updates automatically when the song changes.
 
 ### Getting Started
-1. Launch MpdMacOS
+1. Launch Maestro
 2. Click the menubar text to open the control menu
 3. Add/Edit MPD server profiles in Settings
 4. Use global shortcuts or media keys to control playback
