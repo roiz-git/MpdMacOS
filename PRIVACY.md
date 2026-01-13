@@ -1,4 +1,4 @@
-# Maestro - MPD Client Privacy Policy
+# Maple Audio - MPD Client Privacy Policy
 
 Last updated: January 2025
 
