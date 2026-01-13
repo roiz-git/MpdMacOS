@@ -2,7 +2,7 @@
 
 Last updated: January 2025
 
-Maestro does not collect, store, or transmit any personal data.
+Maple Audio does not collect, store, or transmit any personal data.
 
 ## Data Storage
 
@@ -18,4 +18,4 @@ Maestro does not collect, store, or transmit any personal data.
 
 ## Contact
 
-For questions about this privacy policy, https://github.com/roiz-git/MpdMacOS/issues
+For questions about this privacy policy, https://github.com/roiz-git/MapleAudio-Desktop/issues
