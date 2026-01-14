@@ -1,8 +1,8 @@
-# Maple Audio - MPD Client Privacy Policy
+# Walnut Audio - MPD Client Privacy Policy
 
 Last updated: January 2025
 
-Maple Audio does not collect, store, or transmit any personal data.
+Walnut Audio does not collect, store, or transmit any personal data.
 
 ## Data Storage
 
@@ -18,4 +18,4 @@ Maple Audio does not collect, store, or transmit any personal data.
 
 ## Contact
 
-For questions about this privacy policy, https://github.com/roiz-git/MapleAudio-Desktop/issues
+For questions about this privacy policy, https://github.com/roiz-git/WalnutAudio-Desktop/issues
